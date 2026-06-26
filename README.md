@@ -36,12 +36,11 @@ Diabetes is often diagnosed late due to subtle early indicators across multiple 
 | Metric | Score |
 |---|---|
 | Accuracy | 80% |
-| Precision | — |
-| Recall | — |
-| F1-Score | — |
-| AUC | — |
+| Precision | 85% |
+| Recall | 68% |
+| F1-Score | 75% |
+| AUC |  |
 
-*(Fill in the remaining metric values from your evaluation output.)*
 
 ## Getting Started
 
